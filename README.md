@@ -32,6 +32,7 @@ Leveraging my technical support background and Master's in Information Assurance
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-AI%20Security%20Controls-0067B8?style=flat&logo=microsoft&logoColor=white) 
 
 ## Recognitions & Achievements
-<a href="https://github.com/punnakavyasri-cyber/PunnaKavyaSri/blob/main/ResearchPaper/Cybersecurity%20Research%20Recognition.md">Cybersecurity Research Recognition</a>
-
+<a href="https://github.com/punnakavyasri-cyber/PunnaKavyaSri/blob/main/ResearchPaper/Cybersecurity%20Research%20Recognition.md">Cybersecurity Research Recognition</a> </br>
+<a href="https://github.com/punnakavyasri-cyber/PunnaKavyaSri/blob/main/GTA/Teaching%20Assistant.md">Outstanding Contribution as Graduate Teaching Assistant</a> </br>
+B-Sides Rochester Volunteer (2024)
 
