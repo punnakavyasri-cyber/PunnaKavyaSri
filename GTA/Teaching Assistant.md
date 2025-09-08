@@ -1,11 +1,11 @@
-# 🎓 Outstanding Performance as Graduate Teaching Assistant
+# 🎓 Outstanding Contribution as Graduate Teaching Assistant
 
 **Title:** Graduate Teaching Assistant – Cybersecurity
 
 **Recognition:** Awarded for exceptional contributions to cybersecurity courses, with a focus on penetration testing and ethical hacking, under the guidance of Assistant Professor Rashid A. Khan at Gannon University
 
 **Overview:**  
-During my tenure as a Graduate Teaching Assistant, I played a vital role in delivering hands-on cybersecurity education. My responsibilities extended beyond routine support, encompassing course material refinement, lab demonstrations, troubleshooting, grading, and one-on-one student mentoring. I specialized in guiding students through penetration testing labs using tools like Nmap, Metasploit, Burp Suite, OWASP ZAP, Wireshark, and Nessus in Kali Linux and Parrot OS environments hosted on Proxmox.
+During my tenure as a Graduate Teaching Assistant, I played a vital role in delivering hands-on cybersecurity education. My responsibilities extended beyond routine support, encompassing course material refinement, lab demonstrations, troubleshooting, grading, and one-on-one student mentoring. I specialized in guiding students through penetration testing labs using tools like **Nmap, Metasploit, Burp Suite, OWASP ZAP, Wireshark,** and **Nessus** in **Kali Linux** and **Parrot OS** environments hosted on Proxmox.
 
 By emphasizing both the practical use of security tools and the methodology behind them, I helped students connect theoretical cybersecurity concepts with real-world applications. My contributions created a stronger, more engaging learning experience, enabling students to gain confidence in vulnerability assessment, exploit development, and post-exploitation analysis.
 
