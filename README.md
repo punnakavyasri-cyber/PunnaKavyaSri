@@ -1,4 +1,3 @@
-# Hello, I'm Kavya
 <a href="https://www.linkedin.com/in/kavya-sri-punna-67a792183"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 After several years as a Technical Support Engineer, my growing passion for cybersecurity led me to pursue a Master's degree in Information Assurance & Cybersecurity. During my program, I gained hands-on experience through corporate internships focusing on Cloud Security, IAM, and SOC operations. I also served as a Teaching Assistant, conducting labs on security tools like Nmap, Burp Suite, and Metasploit, and earned the CompTIA Security+ certification.
