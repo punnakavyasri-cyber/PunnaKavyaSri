@@ -31,7 +31,7 @@ Leveraging my technical support background and Master's in Information Assurance
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-AI%20Security%20Fundamentals-0067B8?style=flat&logo=microsoft&logoColor=white)   
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-AI%20Security%20Controls-0067B8?style=flat&logo=microsoft&logoColor=white) 
 
-## Achievements
+## Recognitions & Achievements
 <a href="https://github.com/punnakavyasri-cyber/PunnaKavyaSri/blob/main/ResearchPaper/Cybersecurity%20Research%20Recognition.md">Cybersecurity Research Recognition</a>
 
 
