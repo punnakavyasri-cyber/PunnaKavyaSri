@@ -36,3 +36,10 @@ Leveraging my technical support background and Master's in Information Assurance
 <a href="https://github.com/punnakavyasri-cyber/PunnaKavyaSri/blob/main/GTA/Teaching%20Assistant.md">Outstanding Contribution as Graduate Teaching Assistant</a> </br>
 B-Sides Rochester Volunteer (2024)
 
+## Projects  
+
+**Suricata PCAP Replay & Custom Rules (In-Progress)**  
+  Building a lab to simulate network intrusion detection with Suricata. This project focuses on replaying captured PCAP traffic to test detection accuracy and writing **custom IDS rules** for different attack scenarios. It demonstrates skills in packet analysis, threat detection, and SOC workflows.  
+
+**2-Tier AWS Secure Architecture (Planned)**  
+  Designing and deploying a **highly available 2-tier web architecture** on AWS using Terraform. The setup will include a public web tier behind an **Application Load Balancer**, a private database tier, and **security controls** such as IAM, NACLs, Security Groups, and monitoring with CloudWatch and VPC Flow Logs. Future plans include integrating logging, encryption, and compliance-aligned policies to showcase cloud security best practices.  
