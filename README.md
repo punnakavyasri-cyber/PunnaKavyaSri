@@ -40,5 +40,5 @@ B-Sides Rochester Volunteer (2024)
 - <a href="https://github.com/punnakavyasri-cyber/ids-siem-integration"> **IDS–SIEM Integration: Suricata + Splunk:** </a> <br>
   Hands-on SOC lab simulating real-world attacks (Log4j, WarmCookie) with Suricata IDS log ingestion into Splunk SIEM, dashboards, alerts, and incident response workflow.  
 
-**2-Tier AWS Secure Architecture (Planned):**  
+- **2-Tier AWS Secure Architecture (Planned):**  
   Designing and deploying a **highly available 2-tier web architecture** on AWS using Terraform. The setup will include a public web tier behind an **Application Load Balancer**, a private database tier, and **security controls** such as IAM, NACLs, Security Groups, and monitoring with CloudWatch and VPC Flow Logs. Future plans include integrating logging, encryption, and compliance-aligned policies to showcase cloud security best practices.  
