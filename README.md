@@ -41,7 +41,7 @@ B-Sides Rochester Volunteer (2024)
 - <a href="https://github.com/punnakavyasri-cyber/ids-siem-integration"> **IDS–SIEM Integration: Suricata + Splunk:** </a> <br>
   Hands-on SOC lab simulating real-world attacks (Log4j, WarmCookie) with Suricata IDS log ingestion into Splunk SIEM, dashboards, alerts, and incident response workflow.  
 
-- <a href="https://github.com/punnakavyasri-cyber/HoneyTrap-GCP/tree/main"> **Honey Trap GCP:** </a> <br>
+- <a href="https://github.com/punnakavyasri-cyber/HoneyTrap-GCP/tree/main"> **Honey Trap GCP (In Progress):** </a> <br>
   Deployed and automated the T-Pot honeypot framework on Google Cloud using Terraform (IaC) to capture brute-force, malware, and reconnaissance attacks. Integrated dashboards for real-time monitoring of threat activity and malicious IP trends.
   
 - **2-Tier AWS Secure Architecture (Planned):**  
