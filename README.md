@@ -43,6 +43,9 @@ B-Sides Rochester Volunteer (2024)
 
 - <a href="https://github.com/punnakavyasri-cyber/HoneyTrap-GCP/tree/main"> **Honey Trap GCP (In Progress):** </a> <br>
   Deployed and automated the T-Pot honeypot framework on Google Cloud using Terraform (IaC) to capture brute-force, malware, and reconnaissance attacks. Integrated dashboards for real-time monitoring of threat activity and malicious IP trends.
+
+- <a href="https://github.com/SaiNiranjanChitturi/Identifile"> **IdentiFile – Python File Format Detection Library:** </a> <br>
+  Co-developed an open-source Python library for detecting and classifying file formats using magic bytes, MIME types, and signatures. Published with documentation and modular design to support integration into security workflows.
   
 - **2-Tier AWS Secure Architecture (Planned):**  
   Designing and deploying a **highly available 2-tier web architecture** on AWS using Terraform. The setup will include a public web tier behind an **Application Load Balancer**, a private database tier, and **security controls** such as IAM, NACLs, Security Groups, and monitoring with CloudWatch and VPC Flow Logs. Future plans include integrating logging, encryption, and compliance-aligned policies to showcase cloud security best practices.  
