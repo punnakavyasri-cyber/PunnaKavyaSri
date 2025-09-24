@@ -28,7 +28,7 @@ Leveraging my technical support background and Master's in Information Assurance
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat&logo=comptia&logoColor=white)   
 ![Google Foundations of Cybersecurity](https://img.shields.io/badge/Google-Foundations%20of%20Cybersecurity-4285F4?style=flat&logo=google&logoColor=white)   
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-AI%20Security%20Fundamentals-0067B8?style=flat&logo=microsoft&logoColor=white)   
-![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-AI%20Security%20Controls-0067B8?style=flat&logo=microsoft&logoColor=white) 
+![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-AI%20Security%20Controls-0067B8?style=flat&logo=microsoft&logoColor=white) <br>
 ![AttackIQ AI Security](https://img.shields.io/badge/AttackIQ%20AI%20Security-0A0A0A?style=plastic&logo=artificialintelligence&logoColor=white)
 
 ## Recognitions & Achievements
